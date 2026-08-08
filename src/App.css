@@ -1,0 +1,22 @@
+/* Mengatur tampilan seluruh halaman */
+body{
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  background:#f5f5f5;
+}
+
+/* Mengatur container utama aplikasi */
+.App{
+  text-align:center;
+}
+
+/* Memberikan jarak pada card */
+.MuiCard-root{
+  margin-top:20px;
+  padding:20px;
+}
+
+/* Memberikan jarak antar paragraf */
+p{
+  line-height:1.6;
+}
