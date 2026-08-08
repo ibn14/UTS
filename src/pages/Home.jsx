@@ -96,7 +96,7 @@ export default function Home() {
   );
 
   <img
-  src="/profile.jpg"
+  src="/profile.jepg"
   alt="Foto Ibnu Haris"
   width="180"
   style={{
